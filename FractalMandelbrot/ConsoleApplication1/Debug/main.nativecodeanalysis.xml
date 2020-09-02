@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\gamingchamptv\source\repos\consoleapplication1\consoleapplication1</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>46</LINE>
+      <COLUMN>36</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '-' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '-' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>31</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\gamingchamptv\source\repos\consoleapplication1\consoleapplication1</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>46</LINE>
+      <COLUMN>24</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '-' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '-' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>31</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\gamingchamptv\source\repos\consoleapplication1\consoleapplication1</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>47</LINE>
+      <COLUMN>24</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '-' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '-' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>31</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

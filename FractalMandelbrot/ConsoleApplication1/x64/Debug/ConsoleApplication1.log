@@ -1,0 +1,19 @@
+﻿  Bitmap.cpp
+C:\Users\Mike Palmer\Source\repos\ConsoleApplication1\ConsoleApplication1\Bitmap.cpp(3,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  FractalCreator.cpp
+C:\Users\Mike Palmer\Source\repos\ConsoleApplication1\ConsoleApplication1\FractalCreator.cpp(22,30): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Mike Palmer\Source\repos\ConsoleApplication1\ConsoleApplication1\FractalCreator.cpp(134,25): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+C:\Users\Mike Palmer\Source\repos\ConsoleApplication1\ConsoleApplication1\FractalCreator.cpp(135,27): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+C:\Users\Mike Palmer\Source\repos\ConsoleApplication1\ConsoleApplication1\FractalCreator.cpp(136,26): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+  main.cpp
+C:\Users\Mike Palmer\Source\repos\ConsoleApplication1\ConsoleApplication1\main.cpp(20,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mike Palmer\Source\repos\ConsoleApplication1\ConsoleApplication1\main.cpp(21,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Mandelbrot.cpp
+  RGB.cpp
+  ZoomList.cpp
+  Generating Code...
+  ConsoleApplication1.vcxproj -> C:\Users\Mike Palmer\Source\repos\ConsoleApplication1\x64\Debug\Fractal.exe
